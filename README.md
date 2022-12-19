@@ -7,6 +7,9 @@
 
 ## Deskripsi Umum
 
+		Definisi Matriks, Matriks merupakan sekumpulan informasi yang setiap individu elemenya diacu denganm enggunakan dua buah indeks (baris dan kolom). Walaupun berdimensi tapid alam penyimpanan matriks tetap tersusun secara terurut.
+		Matriks merupakan kumpulan-kumpulan bilangan yang disusun secara baris (vertikal) dan kolom (horizontal) bisa disebut juga array dua dimensi (multi-dimensional). Transpose Matriks adalah memperoleh sebuah matriks dengan cara menukar baris menjadi kolom dan kolom menjadi baris dari sebuah matriks.
+
 ## Source Code
 
 		#include<iostream>
@@ -22,7 +25,7 @@
 		cout << " Mata Kuliah	: Dasar Pemrograman"<<endl;
 		cout << "Nama		: Luthfi Afiyah"<<endl;
 		cout << "NIM		: 1227050065"<<endl;
-		cout << "Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung] (https://uinsgd.ac.id/)"<<endl;
+		cout << "Jurusan	: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung] (https://uinsgd.ac.id/)"<<endl;
 
 		cout << "========================================================================================================================"<<endl<<endl;
 
